@@ -46,4 +46,4 @@ Git, GitHub, RESTful APIs, Task Automation, Performance Optimization
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn](www.linkedin.com/in/shivam-gaikwad01)
+- [LinkedIn](https://www.linkedin.com/in/shivam-gaikwad01)
