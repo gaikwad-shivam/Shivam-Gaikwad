@@ -6,7 +6,7 @@ I specialize in *Angular* for frontend development, creating dynamic, responsive
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack 
 
 *Backend:*  
 C#, .NET Core, MVC5, Web API, Entity Framework, ADO.NET, SQL Server  
